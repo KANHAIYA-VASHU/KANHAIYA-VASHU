@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @KANHAIYA-VASHU
-- 👀 I’m interested in Problem solving with various programming language.
-- 🌱 I’m currently learning data structure in c 
-- 💞️ I’m looking to collaborate on c language
+- 👋 Hi, I’m @KANHAIYA-205122035
+- 👀 I’m interested in Problem-solving with various programming languages.
+- 🌱 I’m currently learning data structure in C++ 
+- 💞️ I’m looking to collaborate on C++ language
 - 📫 
 
 <!---
